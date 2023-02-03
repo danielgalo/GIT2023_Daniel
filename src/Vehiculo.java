@@ -12,6 +12,8 @@ public class Vehiculo {
     this.matricula = matricula;
   }
   
-  
+  public String getModelo() {
+    return modelo;
+  }
   
 }
